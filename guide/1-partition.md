@@ -37,6 +37,10 @@ cd path\to\platform-tools
 ```
 
 ### Flash and boot into the modified recovery
+> [!Important]
+> The recovery file provided in this guide has only been tested on HyperOS. If it does not boot, please install the latest official HyperOS first.
+> You can freely reinstall the ROM of your liking after finishing the installation.
+
 > If you aren't rooted yet, do this first
 - Open **Magisk** and select the **Modules** tab.
 - Click on **Install from storage** and locate `modded-ofox-lisa.zip` and install it.
