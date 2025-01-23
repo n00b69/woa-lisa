@@ -7,9 +7,9 @@
 ### Prerequisites
 - [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip)
 
-- [Drivers](https://github.com/n00b69/woa-vayu/releases/tag/Drivers)
+- [Drivers](https://github.com/n00b69/woa-lisa/releases/tag/Drivers)
 
-- [UEFI image](https://github.com/n00b69/woa-vayu/releases/tag/UEFI)
+- [UEFI image](https://github.com/n00b69/woa-lisa/releases/tag/UEFI)
 
 ### Boot into the modified recovery
 > While booted in Android
