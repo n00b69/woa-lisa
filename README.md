@@ -56,6 +56,7 @@ All the files here have been contributed by other users, here you will find a gu
 [<img alt="n00b69" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83274506?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/n00b69)
 [<img alt="Kumar-Jy" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20044626?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Kumar-Jy)
 [<img alt="TrustedFloppa" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85476585?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/TrustedFloppa)
+[<img alt="ETCHDEV" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62027777?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ETCHDEV)
 
 
 
