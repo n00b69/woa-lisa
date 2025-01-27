@@ -5,11 +5,11 @@
 ## Partitioning your device
 
 ### Prerequisites
-- Unlocked bootloader & rooted phone
+- Unlocked bootloader
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img)
 
 ### Notes
 > [!WARNING]  
@@ -36,15 +36,11 @@
 cd path\to\platform-tools
 ```
 
-### Flash and boot into the modified recovery
-> [!Important]
-> The recovery file provided in this guide has only been tested on HyperOS. If it does not boot, please install the latest official HyperOS first.
-> You can freely reinstall the ROM of your liking after finishing the installation.
-
-> If you aren't rooted yet, do this first
-- Open **Magisk** and select the **Modules** tab.
-- Click on **Install from storage** and locate `modded-ofox-lisa.zip` and install it.
-- Return to the main menu, press the rotating arrow icon in the top right, and press `Reboot Recovery`.
+### Boot into the modified recovery
+> While in fastboot mode, replace `path\to\modded-recovery-lisa.img` with the actual path of the image
+```cmd
+fastboot boot path\to\modded-recovery-lisa.img
+```
 
 #### Backing up your boot image
 > This will back up your boot image in the current directory
@@ -158,7 +154,7 @@ adb shell partition $
 
 </details>
 
-## [Next step: Installing Windows](3-install.md)
+## [Next step: Rooting your phone](2-root.md)
 
 
 
