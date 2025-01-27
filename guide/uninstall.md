@@ -12,7 +12,7 @@ If you want to relock your bootloader you'll need your partition table to be sto
 ### Prerequisites
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip) (new method)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img) (new method)
 
 - [gpt_both0.bin](https://github.com/n00b69/woa-vayu/releases/download/Files/gpt_both0.bin) (old method)
 
@@ -23,9 +23,9 @@ If you want to relock your bootloader you'll need your partition table to be sto
 - Run the **Switch to Android** or **Android** shortcut on your desktop, or flash a **boot.img** backup in fastboot/recovery.
 
 ### Boot into the modified recovery
-> While booted in Android
+> While in fastboot mode, replace `path\to\modded-recovery-lisa.img` with the actual path of the image
 ```cmd
-adb reboot recovery
+fastboot boot path\to\modded-recovery-lisa.img
 ```
 
 ### Execute the restore script
