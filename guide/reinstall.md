@@ -7,12 +7,12 @@
 ### Prerequisites
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img)
 
 ### Boot into the modified recovery
-> While booted in Android
+> While in fastboot mode, replace `path\to\modded-recovery-lisa.img` with the actual path of the image
 ```cmd
-adb reboot recovery
+fastboot boot path\to\modded-recovery-lisa.img
 ```
 
 #### Formatting the Windows partition
