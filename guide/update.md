@@ -5,16 +5,16 @@
 ## Updating drivers
 
 ### Prerequisites
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img)
 
 - [Drivers](https://github.com/n00b69/woa-lisa/releases/tag/Drivers)
 
 - [UEFI image](https://github.com/n00b69/woa-lisa/releases/tag/UEFI)
 
 ### Boot into the modified recovery
-> While booted in Android
+> While in fastboot mode, replace `path\to\modded-recovery-lisa.img` with the actual path of the image
 ```cmd
-adb reboot recovery
+fastboot boot path\to\modded-recovery-lisa.img
 ```
 
 #### Execute the msc script
