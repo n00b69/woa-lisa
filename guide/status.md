@@ -18,7 +18,7 @@ This project is still in its early stages. Updates might however not be frequent
 - [x] SD card
 - [x] SMS
 - [x] Touchscreen
-- [x] LTE ```SIM card must be in SIM1```
+- [x] LTE/5G ```SIM card must be in SIM1```
 - [ ] Microphone
 - [x] UFS
 - [x] USB
