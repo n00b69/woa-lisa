@@ -15,7 +15,7 @@ This project is still in its early stages. Updates might however not be frequent
 - [x] Display
 - [ ] Flashlight
 - [ ] GPU
-- [x] SD card
+- [x] SD card ```SDHC only (needs testing)```
 - [x] SMS
 - [x] Touchscreen
 - [x] LTE/5G ```SIM card must be in SIM1```
