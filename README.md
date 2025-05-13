@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/n00b69/woa-lisa/blob/main/lisa.png" width="350" alt="Windows 11 running on a lisa">
 
 # Running Windows on the Xiaomi 11 Lite NE 5G
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woalisa)
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/lisawoa)
 
 
 ## ⚠️ Warning
