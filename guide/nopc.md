@@ -19,7 +19,7 @@
 > [!WARNING]  
 > All your data will be erased! Back up now if needed.
 > 
-> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/woalisa).
+> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/lisawoa).
 
 ### Flash and boot into the modified recovery
 > If you aren't rooted yet, do this first
