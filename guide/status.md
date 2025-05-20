@@ -22,6 +22,7 @@ This project is still in its early stages. Updates might however not be frequent
 - [ ] Microphone
 - [x] UFS
 - [x] USB
+- [x] Vibration
 - [x] Wi-Fi
 
 #### Sensors
