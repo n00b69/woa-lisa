@@ -9,7 +9,7 @@
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-recovery-lisa.img) (You may need to flash official HyperOS if this image does not boot)
 
 ### Notes
 > [!WARNING]  
