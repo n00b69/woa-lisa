@@ -7,7 +7,7 @@
 ### Prerequisites
 - Unlocked bootloader & rooted phone
 
-- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip)
+- [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip) (You may need to flash official HyperOS if this image does not boot)
 
 - [Lisa WinInstaller](https://github.com/n00b69/releases/download/Files/LisaWinInstaller.zip)
 
