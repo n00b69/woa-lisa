@@ -42,10 +42,13 @@ cd path\to\platform-tools
 fastboot boot path\to\modded-recovery-lisa.img
 ```
 
+> [!Important]
+> If you get a black screen, try running the commands while on this black screen, as they may still work. If they don't, flash official HyperOS (2.0?) and try again.
+
 #### Backing up your boot image
 > This will back up your boot image in the current directory
 ```cmd
-adb pull /dev/block/by-name/boot_a boot.img
+adb pull /dev/block/by-name/boot$(getprop ro.boot.slot_suffix boot.img
 ```
 
 ### Partitioning your device
@@ -158,6 +161,7 @@ adb shell partition $
 </details>
 
 ## [Next step: Rooting your phone](2-root.md)
+
 
 
 
