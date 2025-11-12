@@ -9,7 +9,7 @@
 
 - [Modified recovery](https://github.com/n00b69/woa-lisa/releases/download/Files/modded-ofox-lisa.zip) (You may need to flash official HyperOS if this image does not boot)
 
-- [Lisa WinInstaller](https://github.com/n00b69/releases/download/Files/LisaWinInstaller.zip)
+- [Lisa WinInstaller](https://github.com/Kumar-Jy/WOAInstaller/releases/LISA_WinInstaller)
 
 - [Windows on ARM image](https://arkt-7.github.io/woawin/)
 
