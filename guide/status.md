@@ -9,12 +9,12 @@ This project is still in its early stages. Updates might however not be frequent
 - [ ] Audio (Speakers)
 - [X] Battery status
 - [x] Bluetooth
-- [ ] Brightness ```requires GPU```
+- [x] Brightness ```works if you use the experimental test "release" v2513.12```
 - [ ] Camera
 - [x] Charging
 - [x] Display
 - [ ] Flashlight
-- [ ] GPU
+- [x] GPU ```Experimental, works if you use the experimental test "release" v2513.12. See notes in the driver release```
 - [x] SD card ```SDHC only (needs testing)```
 - [x] SMS
 - [x] Touchscreen
