@@ -52,7 +52,7 @@ su
 
 #### Resizing the partition table
 ```cmd
-sgdisk --resize-table 64 /dev/block/sda
+/data/data/com.termux/files/usr/bin/sgdisk --resize-table 64 /dev/block/sda
 ```
 
 ### Preparing for partitioning
@@ -112,9 +112,9 @@ quit
 
 ### Fixing the GPT
 > If you do not do this, Windows may break your device
-- Run the below command to open gdisk in **sda** (later this command will be reused to open *sdb**, **sdc** etc.).
+- Run the below command to open gdisk in **sda** (later this command will be reused to open **sdb**, **sdc** etc.).
 ```cmd
-gdisk /dev/block/sda
+/data/data/com.termux/files/usr/bin/gdisk /dev/block/sda
 ```
 - Run the below commands (each letter is an individual command).
 ```cmd
@@ -142,10 +142,10 @@ y
 
 ### Formatting Windows and ESP drives
 ```cmd
-mkfs.ntfs -f /dev/block/sda35 -L WINLISA
+/data/data/com.termux/files/usr/bin/mkfs.ntfs -f /dev/block/sda35 -L WINLISA
 ``` 
 ```cmd
-mkfs.fat -F32 -s1 /dev/block/sda34 -n ESPLISA
+/data/data/com.termux/files/usr/bin/mkfs.fat -F32 -s1 /dev/block/sda34 -n ESPLISA
 ``` 
 
 #### Check if Android still starts
