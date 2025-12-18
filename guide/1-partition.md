@@ -42,8 +42,11 @@ cd path\to\platform-tools
 fastboot boot path\to\modded-recovery-lisa.img
 ```
 
+
 > [!Important]
 > If you get a black screen, try running the commands while on this black screen, as they may still work. If they don't, flash official HyperOS (2.0?) and try again.
+>
+> If the recovery still refuses to boot, follow [this guide](/guide/1-altpartition.md) instead.
 
 #### Backing up your boot image
 > This will back up your boot image in the current directory
@@ -121,7 +124,13 @@ set $ esp on
 #### Exit parted
 ```cmd
 quit
-``` 
+```
+
+### Fixing the GPT
+> If you do not do this, Windows may break your device
+```cmd
+adb shell fixgpt
+```
 
 ### Formatting data
 - Format all data in OrangeFox, or Android will not boot.
@@ -161,6 +170,7 @@ adb shell partition $
 </details>
 
 ## [Next step: Rooting your phone](2-root.md)
+
 
 
 
