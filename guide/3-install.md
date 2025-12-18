@@ -25,6 +25,9 @@ fastboot boot path\to\modded-recovery-lisa.img
 adb shell msc
 ```
 
+> [!Note]
+> If you are facing issues (e.g your device does not enter mass storage mode or cannot boot into the modified recovery), follow [the steps described in this guide](/guide/troubleshooting.md#mass-storage-mode-does-not-work) for analternative way of entering mass storage mode.
+
 ### Diskpart
 > [!WARNING]
 > DO NOT ERASE, CREATE OR OTHERWISE MODIFY ANY PARTITION WHILE IN DISKPART!!!! THIS CAN ERASE ALL OF YOUR UFS OR PREVENT YOU FROM BOOTING TO FASTBOOT!!!! THIS MEANS THAT YOUR DEVICE WILL BE PERMANENTLY BRICKED WITH NO SOLUTION! (except for taking the device to Xiaomi or flashing it with EDL, both of which will likely cost money)
