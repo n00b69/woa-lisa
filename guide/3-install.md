@@ -26,7 +26,7 @@ adb shell msc
 ```
 
 > [!Note]
-> If you are facing issues (e.g your device does not enter mass storage mode or cannot boot into the modified recovery), follow [the steps described in this guide](/guide/troubleshooting.md#mass-storage-mode-does-not-work) for analternative way of entering mass storage mode.
+> If you are facing issues (e.g your device does not enter mass storage mode or cannot boot into the modified recovery), follow [the steps described in this guide](/guide/troubleshooting.md#mass-storage-mode-does-not-work) for an alternative way of entering mass storage mode.
 
 ### Diskpart
 > [!WARNING]
