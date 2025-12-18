@@ -5,6 +5,28 @@
 ## Troubleshooting Issues
 > Below you will find a list of common problems and their solutions
 
+## Mass storage mode does not work
+> If mass storage mode in the modified recovery does not work, try the below method
+- Reboot back into the fastboot mode and download [**boot-lisa-install.img**](https://github.com/n00b69/woa-lisa/releases/download/Files/boot-install-lisa.img).
+- Run the below command, replacing `path\to\boot-lisa-install.img` with the actual path of the image.
+```cmd
+fastboot boot path\to\boot-lisa-install.img
+```
+- Once booted into the image, select **UEFI Boot Menu** using your **volume buttons**.
+- Select **USB Attached SCSI (UAS) Storage**.
+- Press the **power** button twice to confirm.
+- Proceed with the Diskpart steps now.
+
+##### Finished!
+
+## Device is not recognized in fastboot or recovery
+> This likely means you don't have (proper) USB drivers installed
+- Download [QUD.zip](https://github.com/n00b69/woa-betalm/releases/download/Qfil/QUD.zip) here and extract it.
+- Open Device Manager and find an unknown device or device with errors that may be called **Android**, **ADB Interface**, or **QUSB_BULK**.
+- Right click this devjce, select "Update Drivers" > "Browse files", then select the **QUD folder** you extracted before.
+
+##### Finished!
+
 ## Cannot mount Windows in Android
 If mounting Windows produces an empty folder, you either don't have Windows installed, or your rom does not have mount support.
 
