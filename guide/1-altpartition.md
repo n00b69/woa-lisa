@@ -31,6 +31,9 @@
 - In Termux, run the following commands:
 > If there are any Y/N prompts, type Y
 ```cmd
+apt upgrade
+```
+```cmd
 pkg install root-repo
 ```
 ```cmd
