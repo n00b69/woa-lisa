@@ -35,6 +35,8 @@ All the files here have been contributed by other users, here you will find a gu
 ## Maintainers
 [<img alt="Project Silicium" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/171448307?s=200&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Project-Silicium)
 [<img alt="aistop" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106827114?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/AistopGit)
+[<img alt="N1kroks" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/117468042?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/N1kroks)
+[<img alt="remtrik" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/69907487?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/remtrik)
 
 ## Contributors
 [<img alt="adomerlee" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109386069?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/adomerlee)
@@ -57,6 +59,7 @@ All the files here have been contributed by other users, here you will find a gu
 [<img alt="Kumar-Jy" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20044626?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Kumar-Jy)
 [<img alt="TrustedFloppa" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85476585?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/TrustedFloppa)
 [<img alt="ETCHDEV" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62027777?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ETCHDEV)
+
 
 
 
