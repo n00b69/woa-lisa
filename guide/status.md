@@ -15,7 +15,7 @@ This project is still in its early stages. Updates might however not be frequent
 - [x] Display
 - [ ] Flashlight
 - [x] GPU ```Experimental, works if you use the experimental test "release" v2523.12. See notes in the driver release```
-- [x] SD card ```SDHC only (needs testing)```
+- [x] SD card
 - [x] SMS
 - [x] Touchscreen
 - [x] LTE/5G ```SIM card must be in SIM1```
