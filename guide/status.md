@@ -9,12 +9,12 @@ This project is still in its early stages. Updates might however not be frequent
 - [ ] Audio (Speakers)
 - [X] Battery status
 - [x] Bluetooth
-- [x] Brightness ```works if you use the experimental test "release" v2513.12```
+- [x] Brightness ```works if you use the experimental test "release" v2523.12```
 - [ ] Camera
 - [x] Charging
 - [x] Display
 - [ ] Flashlight
-- [x] GPU ```Experimental, works if you use the experimental test "release" v2513.12. See notes in the driver release```
+- [x] GPU ```Experimental, works if you use the experimental test "release" v2523.12. See notes in the driver release```
 - [x] SD card ```SDHC only (needs testing)```
 - [x] SMS
 - [x] Touchscreen
@@ -26,11 +26,16 @@ This project is still in its early stages. Updates might however not be frequent
 - [x] Wi-Fi
 
 #### Sensors
-- [ ] Accelerometer
+- [x] Accelerometer ```works if you use the experimental test "release" v2523.12```
+- [x] Compass ```works if you use the experimental test "release" v2523.12```
+- [x] Gyroscope ```works if you use the experimental test "release" v2523.12```
+- [x] Inclinometer ```works if you use the experimental test "release" v2523.12```
+- [ ] Light sensor
+- [x] Magnetometer ```works if you use the experimental test "release" v2523.12```
 - [ ] Fingerprint
-- [x] GPS
-- [ ] Gyroscope
-- [ ] Compass
+- [x] GPS ```works if you use the experimental test "release" v2523.12```
+
+
 
 
 
