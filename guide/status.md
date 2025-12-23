@@ -33,7 +33,7 @@ This project is still in its early stages. Updates might however not be frequent
 - [ ] Light sensor
 - [x] Magnetometer ```works if you use the experimental test "release" v2523.12```
 - [ ] Fingerprint
-- [x] GPS ```works if you use the experimental test "release" v2523.12```
+- [x] GPS
 
 
 
