@@ -51,7 +51,7 @@ fastboot boot path\to\modded-recovery-lisa.img
 #### Backing up your boot image
 > This will back up your boot image in the current directory
 ```cmd
-adb pull /dev/block/by-name/boot$(getprop ro.boot.slot_suffix boot.img
+adb pull /dev/block/by-name/boot$(getprop ro.boot.slot_suffix) boot.img
 ```
 
 ### Partitioning your device
@@ -170,6 +170,7 @@ adb shell partition $
 </details>
 
 ## [Next step: Rooting your phone](2-root.md)
+
 
 
 
